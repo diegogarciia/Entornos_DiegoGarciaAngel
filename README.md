@@ -9,3 +9,7 @@ versiones de las que consta un proyecto software. Cuando dicho proyecto tiene un
 gran número de archivos, es necesario tener un software fiable y eficiente.
 
 Autor: Diego García Ángel
+
+##Colaboradores
+
+- Diego García Ángel
